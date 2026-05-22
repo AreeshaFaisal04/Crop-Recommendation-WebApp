@@ -28,6 +28,8 @@ Selecting the right crop for a given soil and climate profile is one of the most
 
 The user enters readings for nitrogen, phosphorous, potassium, temperature, humidity, soil pH, and rainfall. The system processes these inputs through a trained machine learning model and returns the crop best suited to those conditions.
 
+Deployed Link: https://crop-recommendation-app34.vercel.app/
+
 ---
 
 ## Tech Stack
@@ -147,6 +149,8 @@ npm run dev
 ```
 
 Open `http://localhost:5173` in your browser.
+
+Deployed Link: https://crop-recommendation-app34.vercel.app/
 
 ---
 
